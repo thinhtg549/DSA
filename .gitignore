@@ -1,0 +1,23 @@
+# Executable files (file chạy)
+*.exe
+*.out
+
+# Object files (file build)
+*.o
+*.obj
+
+# Visual Studio files
+.vs/
+Debug/
+Release/
+x64/
+x86/
+.vscode/
+
+# Log & temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
